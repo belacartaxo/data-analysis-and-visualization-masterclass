@@ -1,5 +1,5 @@
 # 2025 Python Data Analysis & Visualization Masterclass
-This repository contains the code I developed as part of the **2025 Python Data Analysis & Visualization Masterclass course**. The course helped me strengthen my skills in data analysis and visualization, using tools such as Pandas, Matplotlib and Seaborn. During the course, I had the opportunity to work with real-world datasets and learn how to analyze and visualize data effectively.
+This repository contains the code I developed as part of the **[2025 Python Data Analysis & Visualization Masterclass course](https://www.udemy.com/course/python-data-analysis-visualization/?couponCode=NEWYEARCAREER)**. The course helped me strengthen my skills in data analysis and visualization, using tools such as Pandas, Matplotlib and Seaborn. During the course, I had the opportunity to work with real-world datasets and learn how to analyze and visualize data effectively.
 
 ## What I Learned:
 - Mastering Pandas DataFrames and Series for data manipulation
