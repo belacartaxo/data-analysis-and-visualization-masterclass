@@ -22,3 +22,10 @@ Feel free to explore the code and datasets used in the course. If you have any q
 ---
 
 **Note:** This repository is for educational purposes and showcases the skills I gained from the course.
+## Certificate
+
+I completed the "Data Science, Machine Learning & AI" course, and you can view my certificate [here](https://www.udemy.com/certificate/UC-c56a01e0-457f-4b6c-b702-19136de4d324/).
+
+
+<img src="certificate_page-0001.jpg" alt="Certificate Image" width="500"/>
+
